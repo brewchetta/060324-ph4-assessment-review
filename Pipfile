@@ -8,14 +8,12 @@ SQLAlchemy = "1.4.49"
 flask = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
-pytest = "7.1.3"
+sqlalchemy-serializer = "1.4.1"
 importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
-ipdb = "0.13.9"
-faker = "14.2.0"
-sqlalchemy-serializer = "1.4.1"
+flask-bcrypt = "*"
+python-dotenv = "*"
 flask-cors = "*"
-python-dotenv = "*
 
 [dev-packages]
 
